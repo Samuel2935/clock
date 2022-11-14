@@ -2,7 +2,8 @@
 :root{
   --fnumber: 'Dosis', sans-serif;
   --ftext: 'Nunito', sans-serif;
-  --bg: #131415;
+  /* --bg: #131415; */
+  --bg: #203040;
   --fadebg: hsla(210, 5%, 10%, 0.7);
   --overlaybg: hsla(210, 5%, 10%, 0.3);
   --lightbg: #303336;

@@ -9,11 +9,11 @@ let txt =
         <div id="ctv" class="value"></div>
       </div>
       <div id="accent1" class="flex-col jcc w100">
-        <div id="a1ch" class="mintitle">IST clock color (HEX) -</div>
+        <div id="a1ch" class="mintitle"></div>
         <div class="cval flex-row aic">#-<input id="a1cv" class="value" value="" maxlength="6"></div>
       </div>
       <div id="accent2" class="flex-col jcc w100">
-        <div id="a2ch" class="mintitle">GMT+1 clock color (HEX) -</div>
+        <div id="a2ch" class="mintitle">GMT+1 clock color </div>
         <div class="cval flex-row aic">#-<input id="a2cv" class="value" value="" maxlength="6"></div>
       </div>
       <div class="buttons flex-col">
