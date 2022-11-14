@@ -11,7 +11,7 @@ let txt =
         Find source code on my GitHub. Thanks !
       </div>
       <div id="social" class="flex-row w100 aic">
-        <a href="https://github.com/Samuel2935/jalan-clock" id="github"><i class="fa-brands fa-github"></i></i></a>
+        <a href="https://github.com/Samuel2935/jalan-clock.git" id="github"><i class="fa-brands fa-github"></i></i></a>
         <a href="mailto: samuelblessed38@gmail.com" id="mail"><i class="fa-regular fa-envelope"></i></a>
       </div>
     </div>

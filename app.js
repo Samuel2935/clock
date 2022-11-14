@@ -1014,14 +1014,7 @@ if(!errorStat.includes(-1)){
       }
     }
 
-    // delete buttons
-    // delete alarm 1
-    /*
-      pop - Removes from the End of an Array
-      shift - Removes from the beginning of an Array
-      splice - removes from a specific Array index
-      filter - allows you to programatically remove elements from an Array
-    */
+   
     alarmobj.upcomingAlarms.buttons.d1.onclick=()=>{
       if(localStorage.getItem('alarm2hh')!==null){
         alarmobj.upcomingAlarms.alarmsdesc.a1.innerHTML = alarmobj.upcomingAlarms.alarmsdesc.a2.innerHTML;
